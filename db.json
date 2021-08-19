@@ -1,0 +1,24 @@
+{
+    "officers": [
+        {"id": "S0030", "name": "Putri Oktaviani"},
+        {"id": "S0031", "name": "Ramin S"},
+        {"id": "S0032", "name": "Revaldi"},
+        {"id": "S0033", "name": "Rosidi"},
+        {"id": "S0034", "name": "Sahril"},
+        {"id": "S0035", "name": "Santi Nurlela"},
+        {"id": "S0036", "name": "Sugianto"},
+        {"id": "S0037", "name": "Suhendra"},
+        {"id": "S0038", "name": "Sukatma"},
+        {"id": "S0039", "name": "Sukini"},
+        {"id": "S0040", "name": "Sutarjianto"},
+        {"id": "S0041", "name": "Sutikno"},
+        {"id": "S0042", "name": "Teguh Budiyono"},
+        {"id": "S0043", "name": "Teguh Sri wibowo"},
+        {"id": "S0044", "name": "Tri Atmoji"},
+        {"id": "S0045", "name": "Tri Megawati"},
+        {"id": "S0046", "name": "Wawan K"},
+        {"id": "S0047", "name": "Yogi DH"},
+        {"id": "S0048", "name": "Yogi S"},
+        {"id": "S0049", "name": "Yunita Zahara"}
+    ]
+}
